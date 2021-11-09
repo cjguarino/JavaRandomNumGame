@@ -1,5 +1,5 @@
 # JavaRandomNumGame
-Simple game of guessing a number 1-10 using ....
+Simple game of guessing a number 1-10 using the Java Swing GUI
 
 By CJ Guarino
 
